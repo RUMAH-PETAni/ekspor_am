@@ -11,8 +11,8 @@ body {
 }
 
 #sankey {
-  width: 100vw;  /* pas layar, tanpa overshoot container */
-  height: 400px; /* tinggi tetap */
+  width: 100vw; /* pas layar, tanpa overshoot container */
+  height: 100vh; /* tinggi tetap */
   display: block; /* hilangkan gap inline */
 }
 
