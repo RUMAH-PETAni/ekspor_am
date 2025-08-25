@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "Geodata_Supply_",
+"name": "Geodata_Supply",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "UID": 1, "NAMA": "ASIA MAKMUR", "PERAN": "EKSPORTIR", "LONGITUDE": -5.4375384863100003, "LATITUDE": -5.4375384863100003, "DESA": "WAY LAGA", "KEC": "PANJANG", "KAB": "BANDAR LAMPUNG", "PROV": "LAMPUNG" }, "geometry": { "type": "Point", "coordinates": [ 105.322862486914289, -5.437538486312064 ] } },
@@ -10,7 +10,7 @@
 { "type": "Feature", "properties": { "UID": 5, "NAMA": "JONI", "PERAN": "SUB KOLEKTOR", "LONGITUDE": -5.3904452472499997, "LATITUDE": -5.3904452472499997, "DESA": "SINAR BANGUN", "KEC": "BANDAR NEGERI SEMUONG", "KAB": "TANGGAMUS", "PROV": "LAMPUNG" }, "geometry": { "type": "Point", "coordinates": [ 104.416172285422704, -5.390445247250341 ] } },
 { "type": "Feature", "properties": { "UID": 6, "NAMA": "JUMAROH", "PERAN": "SUB KOLEKTOR", "LONGITUDE": -5.4215900035800004, "LATITUDE": -5.4215900035800004, "DESA": "SIMPANG BAYUR", "KEC": "BANDAR NEGERI SEMUONG", "KAB": "TANGGAMUS", "PROV": "LAMPUNG" }, "geometry": { "type": "Point", "coordinates": [ 104.457940707897421, -5.421590003575773 ] } },
 { "type": "Feature", "properties": { "UID": 7, "NAMA": "SARWO EDI", "PERAN": "SUB KOLEKTOR", "LONGITUDE": -5.5062072013999996, "LATITUDE": -5.5062072013999996, "DESA": "SUKARAJA", "KEC": "SEMAKA", "KAB": "TANGGAMUS", "PROV": "LAMPUNG" }, "geometry": { "type": "Point", "coordinates": [ 104.49552810214027, -5.506207201401196 ] } },
-{ "type": "Feature", "properties": { "UID": 8, "NAMA": "SUNARTI", "PERAN": "PEMBELI LOKAL", "LONGITUDE": -5.4223955335299996, "LATITUDE": -5.4223955335299996, "DESA": "SIMPANG BAYUR", "KEC": "BANDAR NEGERI SEMUONG", "KAB": "TANGGAMUS", "PROV": "LAMPUNG" }, "geometry": { "type": "Point", "coordinates": [ 104.457501136368421, -5.422395533526981 ] } },
+{ "type": "Feature", "properties": { "UID": 8, "NAMA": "SUNARTI", "PERAN": "SUB KOLEKTOR", "LONGITUDE": -5.4223955335299996, "LATITUDE": -5.4223955335299996, "DESA": "SIMPANG BAYUR", "KEC": "BANDAR NEGERI SEMUONG", "KAB": "TANGGAMUS", "PROV": "LAMPUNG" }, "geometry": { "type": "Point", "coordinates": [ 104.457501136368421, -5.422395533526981 ] } },
 { "type": "Feature", "properties": { "UID": 9, "NAMA": "SUPRIYANTO", "PERAN": "PEMBELI LOKAL", "LONGITUDE": -5.4971493817399999, "LATITUDE": -5.4971493817399999, "DESA": "SUKARAJA", "KEC": "SEMAKA", "KAB": "TANGGAMUS", "PROV": "LAMPUNG" }, "geometry": { "type": "Point", "coordinates": [ 104.444937691920984, -5.497149381738552 ] } },
 { "type": "Feature", "properties": { "UID": 10, "NAMA": "TASIN", "PERAN": "PEMBELI LOKAL", "LONGITUDE": -5.4657149996500003, "LATITUDE": -5.4657149996500003, "DESA": "SRIKATON", "KEC": "SEMAKA", "KAB": "TANGGAMUS", "PROV": "LAMPUNG" }, "geometry": { "type": "Point", "coordinates": [ 104.45507700300135, -5.465714999647446 ] } },
 { "type": "Feature", "properties": { "UID": 11, "NAMA": "?", "PERAN": "PEMBELI LOKAL", "LONGITUDE": -5.3716809153899998, "LATITUDE": -5.3716809153899998, "DESA": "ATAR LEBAR", "KEC": "BANDAR NEGERI SEMUONG", "KAB": "TANGGAMUS", "PROV": "LAMPUNG" }, "geometry": { "type": "Point", "coordinates": [ 104.476636573074529, -5.371680915392687 ] } }
